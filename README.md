@@ -4,4 +4,4 @@
 
 <legend>Atualização em breve</legend>
 
-<button>Teste</button)
+<button>Teste</button>
